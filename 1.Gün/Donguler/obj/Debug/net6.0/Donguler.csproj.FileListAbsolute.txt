@@ -1,0 +1,14 @@
+C:\Users\YIGIT\source\repos\KampIntro\Donguler\bin\Debug\net6.0\Donguler.exe
+C:\Users\YIGIT\source\repos\KampIntro\Donguler\bin\Debug\net6.0\Donguler.deps.json
+C:\Users\YIGIT\source\repos\KampIntro\Donguler\bin\Debug\net6.0\Donguler.runtimeconfig.json
+C:\Users\YIGIT\source\repos\KampIntro\Donguler\bin\Debug\net6.0\Donguler.dll
+C:\Users\YIGIT\source\repos\KampIntro\Donguler\bin\Debug\net6.0\Donguler.pdb
+C:\Users\YIGIT\source\repos\KampIntro\Donguler\obj\Debug\net6.0\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YIGIT\source\repos\KampIntro\Donguler\obj\Debug\net6.0\Donguler.AssemblyInfoInputs.cache
+C:\Users\YIGIT\source\repos\KampIntro\Donguler\obj\Debug\net6.0\Donguler.AssemblyInfo.cs
+C:\Users\YIGIT\source\repos\KampIntro\Donguler\obj\Debug\net6.0\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\YIGIT\source\repos\KampIntro\Donguler\obj\Debug\net6.0\Donguler.dll
+C:\Users\YIGIT\source\repos\KampIntro\Donguler\obj\Debug\net6.0\refint\Donguler.dll
+C:\Users\YIGIT\source\repos\KampIntro\Donguler\obj\Debug\net6.0\Donguler.pdb
+C:\Users\YIGIT\source\repos\KampIntro\Donguler\obj\Debug\net6.0\Donguler.genruntimeconfig.cache
+C:\Users\YIGIT\source\repos\KampIntro\Donguler\obj\Debug\net6.0\ref\Donguler.dll
