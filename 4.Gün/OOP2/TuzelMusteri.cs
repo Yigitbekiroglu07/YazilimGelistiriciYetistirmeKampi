@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OOP2
+{
+    internal class TuzelMusteri:Musteri // Tüzel Müşteri aynı zamanda müşteridir.
+        // Miras >>> Inheritance
+    {
+       
+
+        public string SirketAdi { get; set; }
+        public string VergiNo { get; set; }
+    }
+}
